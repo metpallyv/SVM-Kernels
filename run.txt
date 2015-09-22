@@ -1,0 +1,6 @@
+Steps to run the project:
+
+perceptron.py  -f perceptronData.csv -e 1
+dual_perceptron.py  -f perceptronData.csv 
+linear_kernel.py  -f twoSpirals.csv 
+rbf_kernel.py  -f twoSpirals.csv
