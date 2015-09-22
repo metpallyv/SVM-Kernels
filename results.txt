@@ -1,0 +1,51 @@
+#Accuracy for Perceptron Algorithm:
+
+ Correct :  100  Accuracy :  100
+ Correct :  100  Accuracy :  100
+ Correct :  100  Accuracy :  100
+ Correct :  100  Accuracy :  100
+ Correct :  100  Accuracy :  100
+ Correct :  100  Accuracy :  100
+ Correct :  99  Accuracy :  99
+ Correct :  100  Accuracy :  100
+ Correct :  100  Accuracy :  100
+ Correct :  100  Accuracy :  100
+
+Accuracy for Dual Perceptron Algorithm: 
+ Correct :  100  Accuracy :  100
+ Correct :  100  Accuracy :  100
+ Correct :  100  Accuracy :  100
+ Correct :  99  Accuracy :  99
+ Correct :  100  Accuracy :  100
+ Correct :  100  Accuracy :  100
+ Correct :  100  Accuracy :  100
+ Correct :  100  Accuracy :  100
+ Correct :  100  Accuracy :  100
+ Correct :  100  Accuracy :  100
+
+results of linear kernel on twoSpirals data set
+
+ Correct :  73  Accuracy :  73
+ Correct :  55  Accuracy :  55
+ Correct :  63  Accuracy :  63
+ Correct :  63  Accuracy :  63
+ Correct :  62  Accuracy :  62
+ Correct :  62  Accuracy :  62
+ Correct :  58  Accuracy :  58
+ Correct :  63  Accuracy :  63
+ Correct :  62  Accuracy :  62
+ Correct :  61  Accuracy :  61
+
+Accuracy for rbf kernel
+
+Accuracy :  100
+Accuracy :  100
+Accuracy :  100
+Accuracy :  99
+Accuracy :  100
+Accuracy :  100
+Accuracy :  100
+Accuracy :  100
+Accuracy :  100
+Accuracy :  98
+
